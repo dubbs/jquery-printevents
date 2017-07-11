@@ -4,12 +4,14 @@
   "authors": [
     "Kevin Warrington <kevin.warrington@gmail.com>"
   ],
-  "description": "desc",
+  "description": "This plugin publishes jQuery events before and after print",
   "main": "",
   "keywords": [
     "jquery",
     "print",
-    "events"
+    "events",
+    "onbefore",
+    "onafter"
   ],
   "license": "MIT",
   "ignore": [
