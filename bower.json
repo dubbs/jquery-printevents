@@ -1,6 +1,7 @@
 {
   "name": "jquery-printevents",
   "homepage": "https://github.com/dubbs/jquery-printevents",
+  "version": "1.0.0",
   "authors": [
     "Kevin Warrington <kevin.warrington@gmail.com>"
   ],
