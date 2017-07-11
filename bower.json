@@ -1,0 +1,22 @@
+{
+  "name": "jquery-printevents",
+  "homepage": "https://github.com/dubbs/jquery-printevents",
+  "authors": [
+    "Kevin Warrington <kevin.warrington@gmail.com>"
+  ],
+  "description": "desc",
+  "main": "",
+  "keywords": [
+    "jquery",
+    "print",
+    "events"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
