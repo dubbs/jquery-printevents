@@ -1,0 +1,26 @@
+{
+  "name": "jquery-printevents",
+  "version": "1.0.0",
+  "description": "This plugin publishes jQuery events before and after print",
+  "main": "jquery.printevents.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dubbs/jquery-printevents.git"
+  },
+  "keywords": [
+    "jquery",
+    "print",
+    "events",
+    "onbefore",
+    "onafter"
+  ],
+  "author": "Kevin Warrington <kevin.warrington@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dubbs/jquery-printevents/issues"
+  },
+  "homepage": "https://github.com/dubbs/jquery-printevents#readme"
+}
